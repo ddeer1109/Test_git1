@@ -2,7 +2,7 @@ from datetime import time
 import os
 
 print(os.name)
-print("Hello world")
+print("That's all folks!")
 
 
 print('wrona '* 8100)
