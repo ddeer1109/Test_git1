@@ -1,7 +1,8 @@
 from datetime import time
 import os
 
-print(os.name)
+for i in range(100000):
+    print(' hihi ')
 
-
-print('wrona '* 8100)
+def somethingelse(nothing):
+    print('i'm an useless function)
